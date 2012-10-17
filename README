@@ -1,13 +1,14 @@
-Durbie Prusa Mendel
+Lunavast Prusa
+http://lunavast.com/?pid=39241828
 
 Forked from https://github.com/prusajr/PrusaMendel
 
-Refer to the Durbie branch: https://github.com/romscraj/PrusaMendel/tree/Durbie
+Refer to the Durbie branch: https://github.com/lunavast/PrusaMendel/tree/Durbie
 
 Modified parts can be found in the "Durbie/Unique-STL-Files" folder.
 
 Direct downloads for certain files can be found in the Durbie repo here:
-https://github.com/romscraj/durbie/downloads
+https://github.com/lunavast/lunavast-prusa/downloads
 _____________________________________________________________________
 
 Imported stuff:
@@ -17,7 +18,7 @@ Parametric Involute Bevel and Spur Gears by GregFrost
 Belt pulley is http://www.thingiverse.com/thing:3104 by GilesBathgate
 _____________________________________________________________________
 
-Durbie Prusa Mendel Bill of Materials (printed parts):
+Lunavast Prusa Bill of Materials (printed parts):
 
 RP parts that are common with the Prusa Mendel are marked *unchanged* below.
 They can be found in the Durbie branch, under "stl/" folder.
